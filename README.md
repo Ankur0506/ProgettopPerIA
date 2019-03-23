@@ -1,4 +1,4 @@
-# ProgettopPerIA
+# ProgettopPerAI
 Progetto su CSP
 
 l'elaborato è stato fatto sulla programmazione a vincoli. Il progetto rigurada un programma che crea una tabella degli orari per le lezioni.
